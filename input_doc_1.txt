@@ -1,0 +1,30 @@
+OOPS stands for object-oriented programming. All modern programming languages are based on the OOPS concept. Older programming languages like PASCAL, FORTRAN, C, etc., are not obsessed with objects. They are somewhat procedural programming languages.
+
+Objects Oriented Programming is a programming style based on the idea of objects and classes to represent the Data. JAVA is based on object-oriented programming.
+
+Class is not a real-world entity but a template or prototype. In Computer memory, Class doesn't occupy memory, but it imparts an idea about the features of objects. Objects, on the other hand, are the instances of the Class. An object is an actual entity that occupies space in the memory.  
+
+OOPS moves around its four most important pillars. These are; Inheritance, Polymorphism, Abstraction, and Encapsulation.
+Inheritance is a procedure to inherit the features from parent to child in the real world. Similarly, Inheritance in OOPS is a procedure by which one ClassClass acquires all the properties and behaviors of the parent class. Inheritance ensures the reusability of the code. For example, let there be a class named Animal having the feature called 'Eat' and 'Walk .' Let there be another class named 'Dog .'The 'Dog' class inherits all the features from the Animal class. So do we need to provide an Eat and Walk feature to the Dog class? No, we don't. These features are implicit in Dog class. 
+
+Java uses the 'extends' keyword to acquire the features of the parent class. There is an 'IS-A' relationship between Dog and Animal class. We can write- Dog IS-A Animal. So Inheritance forms an IS-A relationship between the child and parent class. 
+
+ 
+
+Types of Inheritance
+ 
+
+There are a total of five types of Inheritance in OOPS.
+
+Single Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Multiple Inheritance
+Hybrid Inheritance
+OOPS stands for object-oriented programming. All modern programming languages are based on the OOPS concept. Older programming languages like PASCAL, FORTRAN, C, etc., are not obsessed with objects. They are somewhat procedural programming languages.
+
+Objects Oriented Programming is a programming style based on the idea of objects and classes to represent the Data. JAVA is based on object-oriented programming.
+
+Class is not a real-world entity but a template or prototype. In Computer memory, Class doesn't occupy memory, but it imparts an idea about the features of objects. Objects, on the other hand, are the instances of the Class. An object is an actual entity that occupies space in the memory.  
+
+OOPS moves around its four most important pillars. These are; Inheritance, Polymorphism, Abstraction, and Encapsulation.

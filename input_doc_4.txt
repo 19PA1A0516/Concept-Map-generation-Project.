@@ -1,0 +1,1 @@
+C was initially used for system development work, c is the base language for learning any other languages. c makes it easy to learn different languages.  
